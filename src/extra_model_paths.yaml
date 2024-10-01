@@ -6,6 +6,8 @@ runpod_worker_comfy:
   configs: models/configs/
   controlnet: models/controlnet/
   embeddings: models/embeddings/
+  facerestore_models: models/facerestore_models/
+  facedetection: models/facedetection/
   loras: models/loras/
   upscale_models: models/upscale_models/
   vae: models/vae/
